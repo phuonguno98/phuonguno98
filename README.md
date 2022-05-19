@@ -1,16 +1,16 @@
-### Hi there 👋
+# Welcome to my personal Github [*@phuonguno98*](https://github.com/phuonguno98/)
 
-<!--
-**phuonguno98/phuonguno98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduce
 
-Here are some ideas to get you started:
+* Full name: **Nguyễn Thanh Phương**
+* Nickname: **Uno**
+* Age: 24 y.o
+* Speciality: ***Information Security***
+* Education: Academy of Cryptography Techniques
+* Country: Vietnam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+* Email: <unovn.contact@gmail.com>
+* Telegram: [@phuonguno](https://t.me/phuonguno)
+* LinkTree: <https://linktr.ee/phuonguno>
